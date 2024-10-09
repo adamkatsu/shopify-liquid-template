@@ -1,0 +1,12 @@
+{
+  "layout": "theme",
+  "wrapper": "section#section-cart.section-top",
+  "sections": {
+    "template": {
+      "type": "template-cart"
+    }
+  },
+  "order": [
+    "template"
+  ]
+}
