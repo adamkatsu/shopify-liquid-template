@@ -1,11 +1,11 @@
 {
   "layout": "theme",
   "wrapper": "section#section-home.section-top",
-  // "sections": {
-  //   "template": {
-  //     "type": "template-index"
-  //   }
-  // },
+  "sections": {
+    "template": {
+      "type": "template-index"
+    }
+  },
   "order": [
     "template"
   ]
