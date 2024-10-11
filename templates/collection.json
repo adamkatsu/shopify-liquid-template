@@ -1,0 +1,13 @@
+{
+  "name": "Template JSON",
+  "layout": "theme",
+  "wrapper": "section#section-json.section-top",
+  "sections": {
+    "template": {
+      "type": "template-collection"
+    }
+  },
+  "order": [
+    "template"
+  ]
+}
