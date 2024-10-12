@@ -1,6 +1,7 @@
-hello
+<h1>{{ section.settings.title }}</h1>
 
 {% for product in section.settings.featured_collection.products %}
+  <span>hello</span>
   {% render 'product-card', product: product %}  
 {% endfor %}
 
@@ -18,7 +19,7 @@ hello
     {
       "type": "text",
       "id": "featured_collection",
-      "label": "colleciton"
+      "label": "collection"
     } 
   ]
 }

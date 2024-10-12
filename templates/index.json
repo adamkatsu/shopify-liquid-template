@@ -1,7 +1,9 @@
 {
-  "layout": "theme",
   "wrapper": "section#section-home.section-top",
   "sections": {
+    "featured-collection": {
+      "type": "featured-collection"
+    },
     "template": {
       "type": "template-index",
       "settings": {
@@ -10,6 +12,6 @@
     }
   },
   "order": [
-    "template"
+    "featured-collection"
   ]
 }
