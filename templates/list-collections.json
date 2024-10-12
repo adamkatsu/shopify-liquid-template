@@ -1,0 +1,12 @@
+{
+  "layout": "theme",
+  "wrapper": "section#section-list-collection.section-top",
+  "sections": {
+    "template": {
+      "type": "template-list-collection"
+    }
+  },
+  "order": [
+    "template"
+  ]
+}
