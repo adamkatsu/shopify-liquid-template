@@ -3,7 +3,10 @@
   "wrapper": "section#section-home.section-top",
   "sections": {
     "template": {
-      "type": "template-index"
+      "type": "template-index",
+      "settings": {
+        "featured_collection": "all"
+      }
     }
   },
   "order": [
