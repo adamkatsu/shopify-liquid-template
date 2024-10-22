@@ -1,0 +1,13 @@
+{
+  "name": "Template Page",
+  "layout": "theme",
+  "wrapper": "section#section-page.section-top",
+  "sections": {
+    "template": {
+      "type": "template-page"
+    }
+  },
+  "order": [
+    "template"
+  ]
+}
